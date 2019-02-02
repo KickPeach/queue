@@ -61,4 +61,3 @@ Beanstalkd 是一个轻量级的内存型队列，利用了和 Memcache 类似�
 The MIT License (MIT).
 
 
-# queue
