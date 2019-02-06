@@ -55,7 +55,9 @@ Beanstalkd 是一个轻量级的内存型队列，利用了和 Memcache 类似�
 
 ## 怎么使用
 
-### Installation
+具体实例可参考[测试例子](https://github.com/KickPeach/queue/blob/master/tests/QueueTest.php)
+
+### 安装
 
 `composer require kickpeach/queue -vvv`
 
